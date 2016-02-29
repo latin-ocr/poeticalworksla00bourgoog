@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poeticalworksla00bourgoog_0030.png"; bbox 0 0 1830 3216; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 196 121 670 160">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 196 121 670 160">
+     <span class='ocr_line' id='line_1_1' title="bbox 196 121 670 160; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 196 122 339 160; x_wconf 69' lang='lat' dir='ltr'><strong>mumma</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 353 121 441 158; x_wconf 70' lang='lat' dir='ltr'>mun</span> <span class='ocrx_word' id='word_1_3' title='bbox 454 121 670 158; x_wconf 60' lang='lat' dir='ltr'>mummuli.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 260 578 427">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 142 260 578 427">
+     <span class='ocr_line' id='line_1_2' title="bbox 142 260 544 335; baseline -0.01 -19"><span class='ocrx_word' id='word_1_4' title='bbox 142 262 258 332; x_wconf 78' lang='lat' dir='ltr'><strong>Unaque</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 271 261 412 335; x_wconf 66' lang='lat' dir='ltr'><strong>nobiscufn</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 424 260 544 314; x_wconf 77' lang='lat' dir='ltr'>savorem</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 177 355 578 427; baseline -0.005 -16"><span class='ocrx_word' id='word_1_7' title='bbox 177 358 315 427; x_wconf 80' lang='lat' dir='ltr'>Perpetuo</span> <span class='ocrx_word' id='word_1_8' title='bbox 328 357 462 411; x_wconf 82' lang='lat' dir='ltr'>celebrate</span> <span class='ocrx_word' id='word_1_9' title='bbox 473 355 578 425; x_wconf 77' lang='lat' dir='ltr'><strong>plausu.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 192 456 668 489">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 192 456 668 489">
+     <span class='ocr_line' id='line_1_4' title="bbox 192 456 668 489; baseline -0.006 0"><span class='ocrx_word' id='word_1_10' title='bbox 192 456 668 489; x_wconf 90' lang='grc'>11111111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 140 544 720 610">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 140 544 720 610">
+     <span class='ocr_line' id='line_1_5' title="bbox 140 544 720 610; baseline -0.009 -13"><span class='ocrx_word' id='word_1_11' title='bbox 140 548 237 598; x_wconf 71' lang='lat' dir='ltr'><strong>Cetera</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 247 547 347 606; x_wconf 73' lang='lat' dir='ltr'>denunt,</span> <span class='ocrx_word' id='word_1_13' title='bbox 359 544 470 596; x_wconf 70' lang='lat' dir='ltr'>authoris</span> <span class='ocrx_word' id='word_1_14' title='bbox 481 552 560 595; x_wconf 80' lang='lat' dir='ltr'><strong>morte</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 570 544 720 610; x_wconf 77' lang='lat' dir='ltr'><strong>interrupta.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 920 3216">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 920 3216">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 920 3216; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 920 3216; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
